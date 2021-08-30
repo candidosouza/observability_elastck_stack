@@ -1,4 +1,4 @@
-# ✨ Observabilidade com Elastic Stack 
+# &#10024; Observabilidade com Elastic Stack 
 
 
 ## &#128373;&#127997; Elastic Stack
