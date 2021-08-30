@@ -1,6 +1,7 @@
 # ✨ Observabilidade com Elastic Stack 
 
-## &#128373; Elastic Stack
+
+## &#128373;&#127997; Elastic Stack
 
 Quando se fala em Elastic Stack, estamos falando de:
 
@@ -9,7 +10,7 @@ Quando se fala em Elastic Stack, estamos falando de:
 - Beats
 - logstash
 
-## &#128373; Kibana
+## &#128373;&#127997; Kibana
 
 Ferramenta de exploração de dados, usada com: 
 
@@ -25,7 +26,7 @@ Integrado com Elasticsearch
 - Permite a geração de gráficos
 - Mapas
 
-## &#128373; Beats
+## &#128373;&#127997; Beats
 
 Anunciado em 2015
 
